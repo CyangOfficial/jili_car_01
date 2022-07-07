@@ -12,7 +12,7 @@
     "express": "^5.0.0-alpha.8",
     "http-assert": "^1.4.1",
     "jsonwebtoken": "^8.5.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mysql": "^2.17.1"
   },
   "devDependencies": {
